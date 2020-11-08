@@ -1,0 +1,26 @@
+package xyz.mjkblog.pattern.singleton;
+
+/**
+ * @Project: DesignPattern
+ * @Author: Unknown
+ * @Create: 2020--09--12--7:55 PM
+ */
+public class Singleton3 {
+    public static void main(String[] args) {
+
+    }
+}
+
+class Singleton{
+    private static Singleton4 instance;
+
+    private Singleton(){
+    }
+
+    public static Singleton4 getInstance(){
+        if (instance != null) {
+            instance=new Singleton4();
+        }
+        return instance;
+    }
+}

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee46f8ba-af9b-4f72-8309-bdd154f3c3e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hODEZZioBIQZd6X77Ije42wvWs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/xyz/mjkblog/pattern/adapter/objectAdapter" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Desktop\有用的东西\各种作业\Java\DesignPattern\src\main\java\xyz\mjkblog\pattern\adapter\objectAdapter" />
+      <recent name="F:\Desktop\有用的东西\各种作业\Java\DesignPattern\src\main\java\xyz\mjkblog\pattern\absFactoryMethod\pizzaStore\pizza" />
+      <recent name="F:\Desktop\有用的东西\各种作业\Java\DesignPattern\src\main\java\xyz\mjkblog\principle\singleResponsibility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.mjkblog.pattern.obersver.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.mjkblog.pattern.obersver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.mjkblog.pattern.proxy.dynamicProxy.Client" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.mjkblog.pattern.proxy.dynamicProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.mjkblog.pattern.factoryMethod.pizzaStore.order.PizzaStore" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.mjkblog.pattern.factoryMethod.pizzaStore.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.mjkblog.pattern.simpleFactory.pizzaStore.order.PizzaStore" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.mjkblog.pattern.simpleFactory.pizzaStore.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtoType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProtoType" />
+      <module name="Spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ProtoType" />
+        <item itemvalue="Application.PizzaStore (1)" />
+        <item itemvalue="Application.PizzaStore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee46f8ba-af9b-4f72-8309-bdd154f3c3e9" name="Default Changelist" comment="" />
+      <created>1599873134092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599873134092</updated>
+      <workItem from="1599873137228" duration="2441000" />
+      <workItem from="1599875856710" duration="57013000" />
+      <workItem from="1600138323453" duration="35207000" />
+      <workItem from="1600483474349" duration="1233000" />
+      <workItem from="1601358441506" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Project_Structure" timestamp="1600319579557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980210159" />
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1600319579557" />
+    <state x="574" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1600307630421">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1600004187493" />
+    <state x="574" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1600307630421" />
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600252902806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599983502570" />
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1600252902806" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1599875757829">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599875757829" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1600418605173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980153639" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600418605173" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1600418605173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980153639" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600418605173" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1600418605173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980153638" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600418605173" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1600418605173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980153639" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600418605173" />
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog" timestamp="1600061223641">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980038911" />
+    <state x="299" y="88" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1600061223641" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1600319572185">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="16" key="SettingsEditor/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599980203942" />
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600319572185" />
+    <state x="490" y="173" width="540" height="524" key="StructurePopup" timestamp="1600090408863">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="490" y="173" width="540" height="524" key="StructurePopup/0.0.1536.864@0.0.1536.864" timestamp="1600090408863" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1600138324534">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600138324534" />
+    <state x="499" y="199" key="extract.method.dialog" timestamp="1599968459632">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="199" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1599968459632" />
+    <state x="209" y="128" key="new project wizard" timestamp="1600069051262">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="128" key="new project wizard/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599979759383" />
+    <state x="209" y="128" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1600069051262" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1599888698177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1599888698177" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1599879267902">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1248.0.1248.936@0.0.1536.864" timestamp="1599879267902" />
+  </component>
+</project>

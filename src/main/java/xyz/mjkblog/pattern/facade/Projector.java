@@ -1,0 +1,29 @@
+package xyz.mjkblog.pattern.facade;
+
+/**
+ * @Project: DesignPattern
+ * @Author: Unknown
+ * @Create: 2020--09--15--10:58 AM
+ */
+public class Projector {
+    private final static Projector instance = new Projector();
+
+    private Projector() {
+    }
+
+    public static Projector getInstance() {
+        return instance;
+    }
+
+    public void on() {
+        System.out.println("Projector on...");
+    }
+
+    public void off() {
+        System.out.println("Projector off...");
+    }
+
+    public void focus() {
+        System.out.println("Projector focus...");
+    }
+}
